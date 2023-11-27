@@ -1,0 +1,23 @@
+.div1, .div2, .div3{
+margin: 30px 0;
+padding: 10px;
+border: 1px solid black;
+}
+
+.div1 p{
+	font-size: 20px;
+	color: red;
+	font-family: monospace ;
+}
+
+.div2 p{
+	font-size: 20px;
+	color: skyblue;
+	font-family: serif;
+}
+
+.div3 p{
+	font-size: 20px;
+	color: pink;
+	font-family: sans-serif;
+}
